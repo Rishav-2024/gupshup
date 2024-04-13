@@ -3,8 +3,8 @@
         "id":1,
         "name":"Emily Johnson",
         "image":"https://randomuser.me/api/portraits/women/43.jpg",
-        "time":"6:17 pm",
-        "lastMsg":"I'm good, thanks! How about you asd asd asd asfasfas asd asdd asd  asd asd ?",
+        "time":"7:20 pm",
+        "lastMsg":"That sounds like a great idea! Let's definitely plan something.",
         "chatHistory":[
             {   
                 "sender":"Emily Johnson",
@@ -29,37 +29,37 @@
             {   
                 "sender":"Emily Johnson",
                 "message":"I'm doing well, thanks for asking. Have you been up to anything interesting lately?",
-                "time":"6:14 pm"
+                "time":"6:18 pm"
             },
             {
                 "sender": "John Doe",
                 "message": "Not much, just catching up on work and spending time with family. What about you?",
-                "time": "6:15 pm"
+                "time": "6:19 pm"
             },
             {
                 "sender": "Emily Johnson",
                 "message": "I've been busy with work too, but I did manage to take a short trip last weekend. It was refreshing!",
-                "time": "6:16 pm"
+                "time": "6:20 pm"
             },
             {
                 "sender": "John Doe",
                 "message": "That sounds nice! Where did you go?",
-                "time": "6:17 pm"
+                "time": "7:17 pm"
             },
             {   
                 "sender":"Emily Johnson",
                 "message":"I went to the mountains for some hiking. The views were breathtaking!",
-                "time":"6:14 pm"
+                "time":"7:18 pm"
             },
             {
                 "sender": "John Doe",
                 "message": "That sounds amazing! I love hiking. We should plan a trip together sometime.",
-                "time": "6:15 pm"
+                "time": "7:20 pm"
             },
             {
                 "sender": "Emily Johnson",
                 "message": "That sounds like a great idea! Let's definitely plan something.",
-                "time": "6:16 pm"
+                "time": "7:20 pm"
             }
         ]
     },
@@ -67,8 +67,8 @@
         "id":2,
         "name":"Ethan Davis",
         "image":"https://randomuser.me/api/portraits/men/46.jpg",
-        "time":"1:14 pm",
-        "lastMsg":"I'm good, thanks! How about you?",
+        "time":"6:17",
+        "lastMsg":"Tell me how's everything going at your office?",
         "chatHistory":[
             {
                 "sender":"Ethan Davis",
@@ -102,32 +102,32 @@
         "name":"Sophia Brown",
         "image":"https://randomuser.me/api/portraits/women/64.jpg",
         "time":"3:44 pm",
-        "lastMsg":"I'm good, thanks! How about you?",
+        "lastMsg":"I'm good too, thanks for asking.",
         "chatHistory":[
             {
                 "sender":"Sophia Brown",
                 "message":"Hello",
-                "time":"6:14 pm"
+                "time":"3:10 pm"
             },
             {
                 "sender": "John Doe",
                 "message": "Hi Sophia!",
-                "time": "6:15 pm"
+                "time": "3:15 pm"
             },
             {
                 "sender": "Sophia Brown",
                 "message": "How are you?",
-                "time": "6:16 pm"
+                "time": "3:25 pm"
             },
             {
                 "sender": "John Doe",
                 "message": "I'm good, thanks! How about you?",
-                "time": "6:17 pm"
+                "time": "3:41 pm"
             },
             {
                 "sender": "Sophia Brown",
                 "message": "I'm good too, thanks for asking.",
-                "time": "6:16 pm"
+                "time": "3:44 pm"
             }
         ]
     },
@@ -136,27 +136,27 @@
         "name":"Liam Martinez",
         "image":"https://randomuser.me/api/portraits/men/20.jpg",
         "time":"2:21 pm",
-        "lastMsg":"I'm good, thanks! How about you?",
+        "lastMsg":"Great, thanks! what about you?",
         "chatHistory":[
             {
                 "sender":"Liam Martinez",
                 "message":"Hi John!",
-                "time":"6:14 pm"
+                "time":"2:14 pm"
             },
             {
                 "sender": "John Doe",
                 "message": "Hello, Liam!",
-                "time": "6:15 pm"
+                "time": "2:15 pm"
             },
             {
                 "sender": "Liam Martinez",
                 "message": "How' everthing going?",
-                "time": "6:16 pm"
+                "time": "2:16 pm"
             },
             {
                 "sender": "John Doe",
                 "message": "Great, thanks! what about you?",
-                "time": "6:17 pm"
+                "time": "2:21 pm"
             }
         ]
     },
@@ -165,32 +165,32 @@
         "name":"Olivia Garcia",
         "image":"https://randomuser.me/api/portraits/women/68.jpg",
         "time":"5:24 pm",
-        "lastMsg":"I'm good, thanks! How about you?",
+        "lastMsg":"Great! Lets meet tomorrow at green gardan.",
         "chatHistory":[
             {
                 "sender":"Olivia Garcia",
                 "message":"Hello",
-                "time":"6:14 pm"
+                "time":"5:22 pm"
             },
             {
                 "sender": "John Doe",
                 "message": "Hi Olivia!",
-                "time": "6:15 pm"
+                "time": "5:22 pm"
             },
             {
                 "sender": "Olivia Garcia",
                 "message": "How are you?",
-                "time": "6:16 pm"
+                "time": "5:23 pm"
             },
             {
                 "sender": "John Doe",
                 "message": "I'm good, thanks! How about you?",
-                "time": "6:17 pm"
+                "time": "5:23 pm"
             },
             {
                 "sender": "Olivia Garcia",
                 "message": "Great! Lets meet tomorrow at green gardan.",
-                "time": "6:16 pm"
+                "time": "5:24 pm"
             }
         ]
     }
