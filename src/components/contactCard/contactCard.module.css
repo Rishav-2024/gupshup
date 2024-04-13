@@ -1,0 +1,53 @@
+.container{
+    width:100%;
+    margin: 5px auto;
+    padding:12px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.container:hover{
+    background-color:rgba(0, 0, 0, 0.1)
+}
+
+.innerContainer{
+    display: flex;
+    margin-left: 30px;
+    width:90%;
+    cursor: pointer;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0 0 4px 2px white;
+}
+
+.image img{
+    width: 60px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.contactName{
+    margin-left:15px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width:80%;
+}
+
+.contactName h1{
+    font-size: 1.2rem;
+    margin:2px;
+    color: rgb(235, 235, 235);
+    font-family:"Poppins", sans-serif;
+    cursor: pointer;
+}

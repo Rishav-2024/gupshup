@@ -1,0 +1,6 @@
+.contacts{
+    position: relative;
+    height:85%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
